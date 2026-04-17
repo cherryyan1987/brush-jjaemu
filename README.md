@@ -1,4 +1,4 @@
-# 🐱 Brush Jjaemu — Play Online (Free, No Download)
+#  Brush Jjaemu — Play Online (Free, No Download)
 
 ![Brush Jjaemu](Brush-Jjaemu-Play Online.png)
 
